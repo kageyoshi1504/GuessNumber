@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessNumber</string>
+    <string name="success">Chúc mừng, bạn đoán trúng rồi!!</string>
+    <string name="failed">Chia buồn, bạn đoán sai rồi!!</string>
+    <string name="reset">Đặt lại</string>
+    <string name="guess">Đoán</string>
+</resources>
